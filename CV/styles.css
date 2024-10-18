@@ -1,0 +1,94 @@
+/* General Styles */
+body {
+    background-color: #D5D8DC;
+    font-family: Arial, sans-serif;
+}
+
+/* Table Layout */
+.cv-table {
+    width: 900px;
+    height: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/* Left Column Styling */
+.left-column {
+    width: 250px;
+    background-color: #1c2833;
+    color: white;
+    padding: 20px;
+    vertical-align: top;
+}
+
+.left-column img.profile-img {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+.left-column h1, .left-column h2 {
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+.left-column p {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.left-column hr {
+    border-color: white;
+}
+
+/* Right Column Styling */
+.right-column {
+    width: 650px;
+    background-color: #F8F9F9;
+    padding: 20px;
+    vertical-align: top;
+}
+
+.right-column h1, .right-column h2, .right-column h3, .right-column h5 {
+    margin-bottom: 10px;
+}
+
+.right-column h1 {
+    font-size: 32px;
+    color: #1c2833;
+}
+
+.right-column h2 {
+    font-size: 24px;
+    color: #1c2833;
+}
+
+.right-column h3 {
+    font-size: 18px;
+    color: #333333;
+}
+
+.right-column h5 {
+    font-size: 16px;
+    color: #555555;
+    margin-top: 5px;
+}
+
+.right-column p, .right-column ul {
+    font-size: 14px;
+    color: #333333;
+    line-height: 1.6;
+}
+
+.right-column ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+/* Misc */
+hr {
+    border: 1px solid #ccc;
+}
+

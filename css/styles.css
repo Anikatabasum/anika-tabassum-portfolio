@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header img {
+    border: 4px solid #D5D8DC;
+}
+rounded-pill {
+    background-color: #e74c3c;
+}
+
+section {
+    padding-top: 50px;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #17a2b8;
+}
